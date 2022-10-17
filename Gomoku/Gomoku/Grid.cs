@@ -8,6 +8,6 @@ namespace Gomoku
 {
     class Grid
     {
-
+    
     }
 }
