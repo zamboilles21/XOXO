@@ -33,7 +33,7 @@ namespace Gomoku
             this.label2 = new System.Windows.Forms.Label();
             this.player1_text = new System.Windows.Forms.TextBox();
             this.player2_text = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btn_start = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -59,7 +59,7 @@ namespace Gomoku
             // 
             // player1_text
             // 
-            this.player1_text.Location = new System.Drawing.Point(188, 19);
+            this.player1_text.Location = new System.Drawing.Point(188, 20);
             this.player1_text.Name = "player1_text";
             this.player1_text.Size = new System.Drawing.Size(205, 20);
             this.player1_text.TabIndex = 2;
@@ -71,22 +71,22 @@ namespace Gomoku
             this.player2_text.Size = new System.Drawing.Size(205, 20);
             this.player2_text.TabIndex = 3;
             // 
-            // button1
+            // btn_start
             // 
-            this.button1.Location = new System.Drawing.Point(188, 101);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "START";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btn_start.Location = new System.Drawing.Point(151, 101);
+            this.btn_start.Name = "btn_start";
+            this.btn_start.Size = new System.Drawing.Size(75, 23);
+            this.btn_start.TabIndex = 4;
+            this.btn_start.Text = "START";
+            this.btn_start.UseVisualStyleBackColor = true;
+            this.btn_start.Click += new System.EventHandler(this.btn_start_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(405, 136);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btn_start);
             this.Controls.Add(this.player2_text);
             this.Controls.Add(this.player1_text);
             this.Controls.Add(this.label2);
@@ -107,7 +107,7 @@ namespace Gomoku
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox player1_text;
         private System.Windows.Forms.TextBox player2_text;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_start;
     }
 }
 

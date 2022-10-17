@@ -1,0 +1,11 @@
+D:\Git\xoxo\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+D:\Git\xoxo\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+D:\Git\xoxo\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+D:\Git\xoxo\Gomoku\Gomoku\obj\Debug\Gomoku.csprojAssemblyReference.cache
+D:\Git\xoxo\Gomoku\Gomoku\obj\Debug\Gomoku.Form1.resources
+D:\Git\xoxo\Gomoku\Gomoku\obj\Debug\Gomoku.JatekTer.resources
+D:\Git\xoxo\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+D:\Git\xoxo\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+D:\Git\xoxo\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+D:\Git\xoxo\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+D:\Git\xoxo\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
