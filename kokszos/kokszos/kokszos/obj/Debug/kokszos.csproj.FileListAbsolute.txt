@@ -1,0 +1,11 @@
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\bin\Debug\kokszos.exe.config
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\bin\Debug\kokszos.exe
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\bin\Debug\kokszos.pdb
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.csprojAssemblyReference.cache
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.Form1.resources
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.Properties.Resources.resources
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.csproj.GenerateResource.cache
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.csproj.CoreCompileInputs.cache
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.exe
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.pdb
+H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.jatekter.resources
