@@ -9,3 +9,14 @@ H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.csproj.CoreCom
 H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.exe
 H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.pdb
 H:\SzP\2022-2023\AszMob\kokszos\kokszos\kokszos\obj\Debug\kokszos.jatekter.resources
+D:\git4\XOXO\kokszos\kokszos\kokszos\bin\Debug\kokszos.exe.config
+D:\git4\XOXO\kokszos\kokszos\kokszos\bin\Debug\kokszos.exe
+D:\git4\XOXO\kokszos\kokszos\kokszos\bin\Debug\kokszos.pdb
+D:\git4\XOXO\kokszos\kokszos\kokszos\obj\Debug\kokszos.csprojAssemblyReference.cache
+D:\git4\XOXO\kokszos\kokszos\kokszos\obj\Debug\kokszos.Form1.resources
+D:\git4\XOXO\kokszos\kokszos\kokszos\obj\Debug\kokszos.jatekter.resources
+D:\git4\XOXO\kokszos\kokszos\kokszos\obj\Debug\kokszos.Properties.Resources.resources
+D:\git4\XOXO\kokszos\kokszos\kokszos\obj\Debug\kokszos.csproj.GenerateResource.cache
+D:\git4\XOXO\kokszos\kokszos\kokszos\obj\Debug\kokszos.csproj.CoreCompileInputs.cache
+D:\git4\XOXO\kokszos\kokszos\kokszos\obj\Debug\kokszos.exe
+D:\git4\XOXO\kokszos\kokszos\kokszos\obj\Debug\kokszos.pdb

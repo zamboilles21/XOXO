@@ -26,8 +26,9 @@ namespace kokszos
 
         private void jatekter_Load(object sender, EventArgs e)
         {
-            player_1_name.Text = player1_name;
-            player_2_name.Text = player2_name;
+            player jatekos = new player(player1_name, player2_name);
+            player_1_name.Text = jatekos.player1;
+            player_2_name.Text = jatekos.player2;
             generatemap();
             whoiswho();
             whosturn();
